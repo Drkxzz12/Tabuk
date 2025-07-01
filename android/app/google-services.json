@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749213753046",
+    "project_id": "tabuk-ce16e",
+    "storage_bucket": "tabuk-ce16e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749213753046:android:46dc2fafe60501ee63b377",
+        "android_client_info": {
+          "package_name": "com.example.capstone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749213753046-493nqc2qlkphluopef0chsq140rbp64g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone_app",
+            "certificate_hash": "29e28448186053638e14ae1ce750906bf0ae32be"
+          }
+        },
+        {
+          "client_id": "749213753046-95lfo93v5l656mkkujoobl2gfs5089a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeIzEOXmrCFNYt7f2QHM43lcq8fZtTsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749213753046-95lfo93v5l656mkkujoobl2gfs5089a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
